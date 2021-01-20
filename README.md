@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I graduated from UCLA in 2020, where I majored in computer science. My core focus and experience lie in the areas of deep learning (especially Natural Language Processing) and backend software development. Starting February 2021, I will be a Data Scientist at Atlassian working on product-focused machine learning.
+I graduated from UCLA in 2020 with a degree in computer science. My core focus and experience lie in the areas of deep learning (especially Natural Language Processing) and backend software development. Starting February 2021, I will be a Data Scientist at Atlassian working on product-focused machine learning.
 
 I like developing meaningful connections and learning about people's backgrounds. Feel free to drop me an email at arnavgrg@ucla.edu if you want to connect or work together.
 
